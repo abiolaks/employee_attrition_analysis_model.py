@@ -1,0 +1,16 @@
+# Core dependencies
+numpy==1.25.2         # Compatible with Numba
+numba==0.57.1         # Works with numpy 1.25.x
+pandas==1.5.3
+scikit-learn==1.2.2
+
+# Model explainability
+shap==0.41.0
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# ML Models
+xgboost==1.7.5
+lightgbm==3.3.5
